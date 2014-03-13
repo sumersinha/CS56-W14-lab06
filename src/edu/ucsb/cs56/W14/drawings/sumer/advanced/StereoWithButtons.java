@@ -15,7 +15,7 @@ import java.awt.geom.AffineTransform;
 import edu.ucsb.cs56.w14.drawings.utilities.ShapeTransforms;
 import edu.ucsb.cs56.w14.drawings.utilities.GeneralPathWrapper;
 /**
-   A Stereo
+   A Stereo With Buttons
       
    @author Sumer Sinha 
    @version for CS56, W14, UCSB, 02/23/2013
